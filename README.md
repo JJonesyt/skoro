@@ -1,1 +1,1 @@
-# skoro
+# skorro
